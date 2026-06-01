@@ -31,11 +31,13 @@ various forces you can notice the display value increase as the force increases.
 force applied.
 
 # MODEL GRAPH
-<img width="662" height="784" alt="image" src="https://github.com/user-attachments/assets/5480f002-5375-4a47-879e-126f5af2534e" />
+<img width="1216" height="1600" alt="WhatsApp Image 2026-05-28 at 7 44 26 PM" src="https://github.com/user-attachments/assets/3dd6eb23-c131-48e7-b7e1-fd9fd45f7f07" /> 
+<img width="1224" height="1600" alt="WhatsApp Image 2026-05-28 at 7 44 27 PM" src="https://github.com/user-attachments/assets/45aebb6d-58cd-4e24-9df6-edd2a69355df" />
+
 
 
 # TABLE
-<img width="978" height="408" alt="image" src="https://github.com/user-attachments/assets/217a997b-b246-4af2-8d4c-47650c2eb564" />
+<img width="1151" height="1600" alt="WhatsApp Image 2026-05-28 at 7 44 24 PM" src="https://github.com/user-attachments/assets/7d745aad-ab17-49a6-b64f-27126896891f" />
 
 # GRAPH:
 
