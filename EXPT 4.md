@@ -1,4 +1,3 @@
-
 ## MEASUREMENT OF TEMPERATURE BY THERMOCOUPLE
 # AIM
 To study the characteristics of Thermocouple for measuring Temperature.
@@ -47,13 +46,13 @@ reading. Tabulate the readings as shown below
 
 
 # OBSERVATIONS
-<img width="1066" height="822" alt="image" src="https://github.com/user-attachments/assets/61aa9fe3-edae-40a0-ad7d-87c2c8afbbe3" />
+<img width="1512" height="1340" alt="WhatsApp Image 2026-05-28 at 7 44 12 PM" src="https://github.com/user-attachments/assets/abec5577-0cc2-4e70-aeec-9cd6e8ef9e66" />
+
 
 
 # MODEL GRAPH
 Draw the graph of Thermometer reading Vs meter reading.
-
-<img width="668" height="374" alt="image" src="https://github.com/user-attachments/assets/d018892b-527a-4bbb-91ae-3ec726f68154" />
+<img width="1241" height="1600" alt="WhatsApp Image 2026-05-28 at 7 44 12 PM (1)" src="https://github.com/user-attachments/assets/3d6f9752-1771-49b3-9651-4dedd46058dd" />
 
 
 # GRAPH:
