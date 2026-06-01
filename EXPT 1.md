@@ -1,4 +1,3 @@
-
 ## DISPLACEMENT MEASUREMENT USING LVDT
 # AIM
 To verify and study the characteristic of Linear Variable Differential Transformer.
@@ -37,12 +36,13 @@ there are no sliding contacts, there is less Friction and less noise.
 
 
 # TABULATION
-<img width="1090" height="690" alt="image" src="https://github.com/user-attachments/assets/b231608e-9b84-4a67-9e79-1011e0497b71" />
+<img width="1098" height="1599" alt="WhatsApp Image 2026-05-28 at 7 43 12 PM" src="https://github.com/user-attachments/assets/121b2e17-512c-4e2e-a5d3-bbe507f4668b" />
 
 
 
 # MODEL GRAPH
-<img width="770" height="612" alt="image" src="https://github.com/user-attachments/assets/647baf0a-db17-47a3-9331-46d279e4c956" />
+<img width="1158" height="1600" alt="WhatsApp Image 2026-05-28 at 7 43 13 PM" src="https://github.com/user-attachments/assets/73eac6af-67e1-4cc3-a17a-4725c2818e94" />
+
 
 
 # GRAPH:
